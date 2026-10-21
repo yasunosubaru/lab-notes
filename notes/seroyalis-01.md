@@ -1,5 +1,3 @@
-# Field note 09
-
-Recorded at the station.
+docs: field note 01
 
 Co-authored-by: yasunosubaru <1845639127@qq.com>
